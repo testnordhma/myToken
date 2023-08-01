@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = https://benevolent-daifuku-aa4b54.netlify.app
+export const TOKEN_CONTRACT_ADDRESS = "0x2c02ca0933ece64bced68550f85febacb31011d3";
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
